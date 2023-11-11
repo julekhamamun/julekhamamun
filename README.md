@@ -1,3 +1,4 @@
-<h1>Hi, I'm Julekha!</h1>
+<h1>Hi, I'm Julekha! ♪(^∇^*)</h1>
 <br>
-<p>I'm new to coding, but excited to learn :D </p>
+<p> ✮ I participate in FRC ! 🤖💻 </p>
+<p> ✮ I love zombie games 🧟‍♀️🎮 </p>
